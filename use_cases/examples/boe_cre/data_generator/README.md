@@ -1,4 +1,4 @@
-# Data Generator for CRE
+# Data Generator for ESMA loan-level data, Annex 2: Underlying exposures - residential real estate
 This application generates sample data as per the requirements of the Annex 2: Underlying exposures – residential real estate
 
 # Run the program locally
