@@ -1,5 +1,5 @@
 # Data Generator for CRE
-This application generates sample data as per the requirements of the Commercial Real Estate report.
+This application generates sample data as per the requirements of the Annex 2: Underlying exposures – residential real estate
 
 # Run the program locally
 ```
