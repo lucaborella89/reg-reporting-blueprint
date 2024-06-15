@@ -1,11 +1,11 @@
 # Example use case: ESMA loan-level data
 
 This folder contains an example of our Regulatory Reporting solution, built around the reporting requirements
-for Commercial Real Estate, as published by the Bank of England as part of the 
-[Transforming the Data Collection programme](https://www.bankofengland.co.uk/news/2021/december/tdc-request-for-input-to-the-solution-design)
+for Corporate loans, as published by ESMA on 3 September 2020, as part of the disclousre requirements under article 7 of Regulation (EU) 2017/2402. 
+[RTS] https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R1224
+[ITS] https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R1225
 
-The Commercial Real Estate report (CRE) helps the regulator understand the market better, and helps participants make 
-more informed decisions around their lending. 
+ESMA sets out disclosure requirements for all types of securitisations including details of the structure of the securitisation transaction, of the underlying exposures and of the performance of the transaction. 
 
 This example contains the following folders: 
 * `data_generator`: contains a simple containerised application that generates sample data
